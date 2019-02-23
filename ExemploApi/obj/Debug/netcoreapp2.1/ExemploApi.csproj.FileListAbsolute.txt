@@ -1,0 +1,15 @@
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/bin/Debug/netcoreapp2.1/ExemploApi.deps.json
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/bin/Debug/netcoreapp2.1/ExemploApi.runtimeconfig.json
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/bin/Debug/netcoreapp2.1/ExemploApi.runtimeconfig.dev.json
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/bin/Debug/netcoreapp2.1/ExemploApi.dll
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/bin/Debug/netcoreapp2.1/ExemploApi.pdb
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.csprojAssemblyReference.cache
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.csproj.CoreCompileInputs.cache
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.RazorAssemblyInfo.cache
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.RazorAssemblyInfo.cs
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.AssemblyInfoInputs.cache
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.AssemblyInfo.cs
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.RazorTargetAssemblyInfo.cache
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.dll
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/obj/Debug/netcoreapp2.1/ExemploApi.pdb
+/Users/Daniel/RiderProjects/ExemploApi/ExemploApi/bin/Debug/netcoreapp2.1/ExemploApi.xml

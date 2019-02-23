@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExemploApi</name>
+    </assembly>
+    <members>
+        <member name="M:ExemploApi.Controllers.ValuesController.Get">
+            <summary>
+            Obtem a lista de Usuários
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
